@@ -2,7 +2,7 @@
 import Home from "./routes/home/home";
 import { Routes, Route} from 'react-router-dom'
 import Navigation from "./routes/navigation/navigation";
-import SignIn from "./routes/sign-in/signIn";
+import SignIn from "./routes/sign-in/sign-in";
 
 const App = () => {
 
