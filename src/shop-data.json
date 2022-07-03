@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Laptop",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781757/demawo_store_media/lepaz_kyhkd3.jpg",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Ipad",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781757/demawo_store_media/ipad_aux93w.jpg",
+      "price": 18
+    },
+    {
+      "id": 3,
+      "name": "Monitor",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781757/demawo_store_media/monitor_do3mng.jpg",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "Projector",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781757/demawo_store_media/projector_rrgfjl.jpg",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "Router",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781756/demawo_store_media/router_m6um3r.jpg",
+      "price": 18
+    },
+    {
+      "id": 6,
+      "name": "Iphone",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781756/demawo_store_media/iphone_fejhez.jpg",
+      "price": 14
+    },
+    {
+      "id": 7,
+      "name": "Stud Monitors",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781756/demawo_store_media/monitors_ms6pbd.jpg",
+      "price": 18
+    },
+    {
+      "id": 8,
+      "name": "Cassette",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781756/demawo_store_media/cassette_e0yovl.jpg",
+      "price": 14
+    },
+    {
+      "id": 9,
+      "name": "Radio",
+      "imageUrl": "https://res.cloudinary.com/demawo/image/upload/v1656781756/demawo_store_media/Vintage_ocwdkf.jpg",
+      "price": 16
+    }
+  ]

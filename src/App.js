@@ -3,15 +3,10 @@ import Home from "./routes/home/home";
 import { Routes, Route} from 'react-router-dom'
 import Navigation from "./routes/navigation/navigation";
 import Authentication from "./routes/authentication/authentication.component";
+import Shop from "./routes/shop/shop";
+import Checkout from "./routes/checkout/Checkout";
 
 const App = () => {
-
-
-  const Shop = () => {
-    <div>
-      <h1> I am a Shop</h1>
-    </div>
-  }
   
   return (
     <Routes>
@@ -19,6 +14,7 @@ const App = () => {
       <Route index element={<Home/>} />
       <Route path='shop' element={<Shop/>} />
       <Route path='auth' element={<Authentication/>} />
+      <Route path='checkout' element={<Checkout/>} />
       </Route>
     </Routes>
   
